@@ -1,0 +1,25 @@
+{
+  "name": "prismQueue",
+  "version": "1.0.0",
+  "description": "nodejs 的简单队列实现",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrismArk/queue.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "eden_zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrismArk/queue/issues"
+  },
+  "homepage": "https://github.com/PrismArk/queue#readme"
+}
