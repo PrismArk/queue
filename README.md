@@ -2,7 +2,7 @@
 nodejs 的简单队列实现
 
 #### 使用示例
-···
+`
 // 创建队列对象
 const queueObj = new queue({
   maxqueue: 5,
@@ -25,4 +25,4 @@ queueObj.setCallBack(() => {
 });
 // 启动队列方法
 queueObj.start();
-···
+`
